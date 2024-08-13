@@ -1,0 +1,45 @@
+INDIVIDUALS = [
+    [
+    "outputs/NDMV/2/{}.out",
+    "outputs/ENDMV/6/{}.out",
+    "outputs/SibNDMV/1/{}.txt",
+    "outputs/LNDMV/1/{}.txt",
+    "outputs/CRFAE/1/{}.txt",
+    "outputs/JointNDMV/1/{}.out",
+    "outputs/Flow/11/{}.out",
+    ],[
+    "outputs/NDMV/3/{}.out",
+    "outputs/ENDMV/8/{}.out",
+    "outputs/SibNDMV/2/{}.txt",
+    "outputs/LNDMV/2/{}.txt",
+    "outputs/CRFAE/3/{}.txt",
+    "outputs/JointNDMV/2/{}.out",
+    "outputs/Flow/15/{}.out",
+    ],[
+    "outputs/NDMV/7/{}.out",
+    "outputs/ENDMV/11/{}.out",
+    "outputs/SibNDMV/3/{}.txt",
+    "outputs/LNDMV/3/{}.txt",
+    "outputs/CRFAE/6/{}.txt",
+    "outputs/JointNDMV/3/{}.out",
+    "outputs/Flow/16/{}.out",
+    ],[
+    "outputs/NDMV/16/{}.out",
+    "outputs/ENDMV/13/{}.out",
+    "outputs/SibNDMV/4/{}.txt",
+    "outputs/LNDMV/4/{}.txt",
+    "outputs/CRFAE/9/{}.txt",
+    "outputs/JointNDMV/4/{}.out",
+    "outputs/Flow/19/{}.out",
+    ],
+    [
+    "outputs/NDMV/20/{}.out",
+    "outputs/ENDMV/15/{}.out",
+    "outputs/SibNDMV/5/{}.txt",
+    "outputs/LNDMV/5/{}.txt",
+    "outputs/CRFAE/13/{}.txt",
+    "outputs/JointNDMV/5/{}.out",
+    "outputs/Flow/20/{}.out",
+    ]
+]
+GOLD = "outputs/Gold/{}.txt"
